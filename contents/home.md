@@ -1,17 +1,18 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![lyuluan](https://img.shields.io/badge/lyuluan-github-blue?logo=github)](https://github.com/yours321dog)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+​​Luan Lyu is now a lecturer at the School of Computer Science and Technology (SCST) of Guangdong University of Technology.​
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: lyuluan[at]qq.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Ph.D., Electromechanical Engineering, University of Macau, 2019—2025.\
+M.E., Computer Science and Technology, University of Macau, 2015—2018.\
+B.E., Computer Science and Technology, Shanghai Jiao Tong University, 2010—2014.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Computer Graphics, Fluid Simulation, Deformable Solid Simulation.
 
