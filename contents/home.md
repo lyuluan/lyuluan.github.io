@@ -6,11 +6,11 @@
 
 #### Contact
 
-Email: lyuluan[at]qq.com
+Email: lyuluan@qq.com
 
 #### Education
 Ph.D., Electromechanical Engineering, University of Macau, 2019—2025.\
-M.E., Computer Science and Technology, University of Macau, 2015—2018.\
+M.S., Computer Science and Technology, University of Macau, 2015—2018.\
 B.E., Computer Science and Technology, Shanghai Jiao Tong University, 2010—2014.
 
 #### Research Interests
