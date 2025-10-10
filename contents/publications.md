@@ -6,8 +6,8 @@
 
 - <strong>Luan Lyu</strong>, Xiaohua Ren, Wei Cao, Jian Zhu, Enhua Wu, Zhi-Xin Yang, Wavelet potentials: An Efficient Potential Recovery Technique for Pointwise Incompressible Fluids. <i>Computer Graphics Forum. Special Issue of Eurographics 2024.</i> 43(2): p.e15023. May 2024.. [[Code]](https://github.com/yours321dog/WaveletPotentials) [[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.15023) [[Video]](https://www.bilibili.com/video/BV1dWnozREau/)
 
-<img src="static/assets/img/glugging.png" height="300" style="object-fit: contain">
-<img src="static/assets/img/pipe_tube.png" height="300" style="object-fit: contain">
+<img src="static/assets/img/glugging.jpg" height="300" style="object-fit: contain">
+<img src="static/assets/img/pipe_tube.jpg" height="300" style="object-fit: contain">
 
 
 - <strong>Luan Lyu</strong>, Xiaohua Ren, Enhua Wu, Zhi-Xin Yang. Fast Wavelet-domain Smoke Guiding. <i>Pacific Graphics 2024. The Eurographics Association.</i> Oct. 2024. [[Paper]](https://diglib.eg.org/bitstreams/30ddf509-7ae8-41d4-808e-94a3245d3142/download)
